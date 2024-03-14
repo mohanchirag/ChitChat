@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "99501183308",
+    "project_id": "chatmates-71273",
+    "storage_bucket": "chatmates-71273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99501183308:android:d381f3cb6ebc909f043fe9",
+        "android_client_info": {
+          "package_name": "com.chirag.chatmates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99501183308-gofo0nndi9kflgc2dvqjbardebgdergh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAhONniAnoK8eZurSgeZcxx2LpWU14TP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99501183308-gofo0nndi9kflgc2dvqjbardebgdergh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
